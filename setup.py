@@ -11,7 +11,7 @@ from setuptools import setup
 
 setup(
     name="task-reminder",
-    version="0.1.0",
+    version="0.1.1",
     description="Sends reminders for tasks from Taskwarrior",
     long_description=open("Readme.md").read(),
     author="Claudio Giovanni Mattera",
